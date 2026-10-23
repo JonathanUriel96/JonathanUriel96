@@ -1,5 +1,5 @@
 
-💻 Languages
+💻 Languages:
 TypeScript · JavaScript · Java/Sprinboot · PHP · SQL
 
 🛠️ Frameworks & Ecosystems
