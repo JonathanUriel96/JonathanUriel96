@@ -20,7 +20,7 @@ implementing robust batch processes, and creating scalable Java Microservices in
 ### 🛠️ Frameworks & Ecosystems
 
 - **Backend & APIs:** Spring Boot, Java Microservices, Maven, Spring Tool Suite, REST APIs, SoapUI.
-- **Web Development:** Angular, React, Vite, TypeScript, HTML5 & CSS3.
+- **Web Development:** Angular, JavaScript, React, Vite, TypeScript, HTML5 & CSS3.
 - **State & Data Fetching:** NgRx, Redux Toolkit.
 - **Databases & Tooling:** Oracle DB, MySQL, Oracle SQL Developer, Dbeaver.
 - **Design & Prototyping:** Figma (UX/UI Wireframing & Prototyping).
