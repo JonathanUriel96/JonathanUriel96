@@ -1,28 +1,37 @@
-### Full-Stack Developer | UX/UI · Java Microservices · Web Architect
+Software Engineer | Full Stack Development · REST APIs · Web Applications
 
-I am a Software Developer focused on building, improving, and optimizing scalable web applications across the full development lifecycle—leveraging modern architectures, continuous integration, and clean code principles.
+I am a Software Engineer with experience developing and maintaining full-stack applications for telecommunications and financial services. My work spans backend services, frontend interfaces, relational databases, production support, testing, and technical documentation.
 
-My technical background includes experience designing intuitive interfaces, managing relational databases, 
-implementing robust batch processes, and creating scalable Java Microservices integrated with dynamic frontends. I focus on strengthening my technical skills continuously to deliver high-value solutions to every project.
+I focus on building maintainable, business-oriented software, collaborating across multidisciplinary teams, and continuously improving application quality throughout the development lifecycle.
 
----
+🏗️ Engineering & Development
 
-### 🏗️ Engineering & Architecture
+Backend: Java, Spring Boot, REST APIs, Spring Data JPA, Spring Security, PHP, Laravel, Node.js.
 
-- **Architecture & Design:** RESTful APIs, Java Microservices, UX/UI Design, Clean Code, OOP, Database Modeling, Batch Processes.
-- **Development & Processes:** Bug Fixing, Scripting, Code Optimization, Test Case Management.
-- **Methodologies & Practices:** Agile, Continuous Integration (CI), Continuous Deployment (CD), Version Control, Code Reviews.
+Frontend: Angular, TypeScript, JavaScript, React, HTML, CSS, Vite.
 
-### 💻 Languages
+State Management: NgRx, Redux Toolkit.
 
-`Java` · `TypeScript` · `JavaScript` · `SQL (Oracle & MySQL)`  · `PHP/Laravel` 
+Databases: MySQL, Oracle SQL.
 
-### 🛠️ Frameworks & Ecosystems
+Quality & Support: Unit testing, test cases, debugging, production incident support, batch-process monitoring, and technical documentation.
 
-- **Backend & APIs:** Spring Boot, Java Microservices, Maven, Spring Tool Suite, REST APIs, SoapUI.
-- **Web Development:** Angular, JavaScript, React, Vite, TypeScript, HTML5 & CSS3.
-- **State & Data Fetching:** NgRx, Redux Toolkit.
-- **Databases & Tooling:** Oracle DB, MySQL, Oracle SQL Developer, Dbeaver.
-- **Design & Prototyping:** Figma (UX/UI Wireframing & Prototyping).
-- **Infrastructure, Deploy & Tools:** Railway, Cloudinary, Firebase Hosting, WebSphere MQ Explorer, Eclipse, Postman, Visual Studio Code.
-- **Version Control:** Git, GitHub, SVN (Tortoise SVN).
+Practices: Requirements analysis, UX/UI collaboration, code validation, Git, and maintainable application design.
+
+💻 Languages
+
+Java · TypeScript · JavaScript · PHP · SQL · HTML · CSS
+
+🛠️ Frameworks & Ecosystems
+
+Backend & APIs: Spring Boot, Spring Data JPA, Spring Security, Laravel, Node.js.
+
+Web: Angular, React, Vite.
+
+State Management: NgRx, Redux Toolkit.
+
+Databases & Migrations: MySQL, Oracle SQL, Flyway.
+
+Authentication & Integrations: OAuth 2.0 / Google sign-in, Cloudinary.
+
+Tools: Git, GitHub, Maven, npm, IntelliJ IDEA.
